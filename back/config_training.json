@@ -1,0 +1,314 @@
+{
+    "session_details": [
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "1652713034.8248234"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "1652713890.8134625"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "1652713916.1585565"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "1652713972.3795307"
+        },
+        {
+            "num_rounds": 1,
+            "resume": true,
+            "session": "18-05-2022-15-14"
+        },
+        {
+            "num_rounds": 1,
+            "resume": true,
+            "session": "18-05-2022-15-23"
+        },
+        {
+            "num_rounds": 1,
+            "resume": true,
+            "session": "18-05-2022-15-26"
+        },
+        {
+            "num_rounds": 1,
+            "resume": true,
+            "session": "25-05-2022-10-02"
+        },
+        {
+            "num_rounds": 1,
+            "resume": true,
+            "session": "25-05-2022-10-02"
+        },
+        {
+            "num_rounds": 3,
+            "resume": true,
+            "session": "25-05-2022-11-20"
+        },
+        {
+            "num_rounds": 3,
+            "resume": true,
+            "session": "25-05-2022-11-28"
+        },
+        {
+            "num_rounds": 1,
+            "resume": true,
+            "session": "25-05-2022-12-07"
+        },
+        {
+            "num_rounds": 0,
+            "resume": true,
+            "session": "25-05-2022-13-06"
+        },
+        {
+            "num_rounds": 0,
+            "resume": true,
+            "session": "25-05-2022-13-11"
+        },
+        {
+            "num_rounds": 0,
+            "resume": true,
+            "session": "25-05-2022-13-13"
+        },
+        {
+            "num_rounds": 0,
+            "resume": true,
+            "session": "25-05-2022-13-15"
+        },
+        {
+            "num_rounds": 4,
+            "resume": true,
+            "session": "25-05-2022-13-16"
+        },
+        {
+            "num_rounds": 0,
+            "resume": true,
+            "session": "25-05-2022-13-17"
+        },
+        {
+            "num_rounds": 0,
+            "resume": true,
+            "session": "25-05-2022-13-18"
+        },
+        {
+            "num_rounds": 0,
+            "resume": true,
+            "session": "25-05-2022-13-32"
+        },
+        {
+            "num_rounds": 1,
+            "resume": true,
+            "session": "25-05-2022-15-12"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "25-05-2022-15-14"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "25-05-2022-15-16"
+        },
+        {
+            "num_rounds": 1,
+            "resume": true,
+            "session": "25-05-2022-15-19"
+        },
+        {
+            "num_rounds": 0,
+            "resume": true,
+            "session": "25-05-2022-15-22"
+        },
+        {
+            "num_rounds": 0,
+            "resume": true,
+            "session": "25-05-2022-15-23"
+        },
+        {
+            "num_rounds": 0,
+            "resume": true,
+            "session": "25-05-2022-16-39"
+        },
+        {
+            "num_rounds": 1,
+            "resume": true,
+            "session": "26-05-2022-12-34"
+        },
+        {
+            "num_rounds": 1,
+            "resume": true,
+            "session": "26-05-2022-12-46"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "26-05-2022-18-18"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "26-05-2022-18-19"
+        },
+        {
+            "num_rounds": 13,
+            "resume": true,
+            "session": "02-06-2022-17-28"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "02-06-2022-19-09"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "04-06-2022-20-48"
+        },
+        {
+            "num_rounds": 3,
+            "resume": true,
+            "session": "05-06-2022-00-22"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "09-06-2022-17-44"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "09-06-2022-18-01"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "09-06-2022-18-12"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "09-06-2022-18-35"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "09-06-2022-18-40"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "09-06-2022-19-02"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "09-06-2022-19-05"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "09-06-2022-19-19"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "10-06-2022-12-44"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "10-06-2022-12-47"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "10-06-2022-12-52"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "10-06-2022-12-52"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "10-06-2022-13-04"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "10-06-2022-13-06"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "10-06-2022-13-11"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "12-06-2022-11-48"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "12-06-2022-16-43"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "13-06-2022-10-32"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "13-06-2022-17-38"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "14-06-2022-09-02"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "14-06-2022-09-03"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "14-06-2022-09-18"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "14-06-2022-22-37"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "14-06-2022-22-48"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "14-06-2022-23-03"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "14-06-2022-23-04"
+        },
+        {
+            "num_rounds": 2,
+            "resume": true,
+            "session": "14-06-2022-23-39"
+        }
+    ]
+}

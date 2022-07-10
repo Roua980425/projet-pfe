@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "sessionnb": "1",
+      "num_rounds": "5",
+      "clientsnb": "2"
+    },
+    {
+      "id": 2,
+      "sessionnb": "2",
+      "num_rounds": "4",
+      "clientsnb": "4"
+    },
+    {
+      "id": 3,
+      "sessionnb": "3",
+      "num_rounds": "10",
+      "clientsnb": "3"
+    }
+   
+  ]
